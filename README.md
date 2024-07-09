@@ -1,4 +1,4 @@
-# A Beaver Translocation Simulation App
+# A Beaver Population Simulation App
 A shiny App developed by zelda van der Waal at the University of Newcastle (UK) for NatureScot, Natural Resource Wales, the Environment Agency and Natural England in 2024.
 
 ## About
