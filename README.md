@@ -6,7 +6,7 @@ As part of a beaver landscape modelling tender Newcastle University produced a d
 
 - create territories, add translocations and modify habitat quality 
 - ![how to 1](www2/fig_howto1.png) ![how to 2](www2/fig_howto2.png) ![how to 3](www2/fig_howto3.png) 
-simulate population growth across the landscape and in abundance 
+- simulate population growth across the landscape and in abundance 
 - ![how to 4](www2/fig_howto4.png) ![how to 5](www2/fig_howto5.png) 
 
 In-app documentation includes: 
