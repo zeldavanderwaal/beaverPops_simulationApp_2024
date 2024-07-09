@@ -47,3 +47,9 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# agencies data
+data/
+metadata/
+temp_files/
+www/
