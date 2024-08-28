@@ -8,8 +8,8 @@ Some examples of app functionalities:
    - beavers: locate existing beaver territories on the map, simulate translocations
    - landscape: modify habitat quality, incorporate barriers and management scenarios
    - simulate population growth across the landscape, create summaries over local areas  
-![how to 1](www2/fig_howto1.png) ![how to 2](www2/fig_howto2.png) ![how to 3](www2/fig_howto3.png) 
-![how to 4](www2/fig_howto4.png) ![how to 5](www2/fig_howto5.png) ![stest](www2/fig_settlmtTest.png) 
+![how to 1](www2/fig_howto1.png) ![how to 2](www2/fig_howto2.png) ![how to 3](www2/fig_howto3.png)  ![how to 6](www2/fig_howto6.png)
+![how to 4](www2/fig_howto4.png) ![how to 5](www2/fig_howto5.png) ![stest](www2/fig_settlmtTest.png)  ![how to 7](www2/fig_howto7.png)
 
 In-app documentation includes: 
 - instructions (user guide, tutorial videos)
