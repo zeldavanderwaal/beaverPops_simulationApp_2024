@@ -1,20 +1,21 @@
 # a Beaver Population Simulation App
 A shiny App developed by zelda van der Waal at the University of Newcastle (UK) for NatureScot, Natural Resource Wales, the Environment Agency and Natural England in 2024.
 
-## about
+## About
 As part of a beaver landscape modelling tender Newcastle University produced a desk-based tool to inform future beaver management decision-making with the aim to work with agencies in designing and producing a desk-based tool which applies the beaver population model and informs beaver management decision-making. The app was initially developed using the Beauly catchment (Scotland) as an example. It was extended to cover Scotland, England and Wales in 2024. 
 
-## examples of app functionalities
+## App functionalities
+### Examples
    - beavers: locate existing beaver territories on the map, simulate translocations
    - landscape: modify habitat quality, incorporate barriers and management scenarios
    - simulate population growth across the landscape
    - map probability of occupancy, create summaries over local areas and visualise trends through time
 
-## in the UI
+### Examples in the UI
 ![how to 1](www2/fig_howto1.png) ![how to 2](www2/fig_howto2.png) ![how to 3](www2/fig_howto3.png)  ![how to 6](www2/fig_howto6.png)
 ![how to 4](www2/fig_howto4.png) ![how to 5](www2/fig_howto5.png) ![stest](www2/fig_settlmtTest.png)  ![how to 7](www2/fig_howto7.png)
 
-## in-app documentation
+### In-app documentation
    - instructions (user guide, tutorial videos)
    - description of the app functionalities (buttons, map legends)
    - summary of the assumptions and parameters within the models
@@ -22,29 +23,23 @@ As part of a beaver landscape modelling tender Newcastle University produced a d
    - suggestions for further documentation
    - literature and packages references     
 
-### the Project Team
+## the Project Team
 Dr Zelda van der Waal, Newcastle University  ([email](mailto:zeldavdwaal@gmail.com))  
 Prof Aileen Mill, Newcastle University  ([email](mailto:aileen.mill@newcastle.ac.uk))  
 
 
-## built With
+## Built With
 R version 4.4.1 (2024-06-14 ucrt) 
 RStudio 2024.04.2+764 "Chocolate Cosmos" 
 Release (e4392fc9ddc21961fd1d0efd47484b43f07a4177, 2024-06-05) for windows
 [Shiny for R](https://shiny.rstudio.com/)  
-
- 
-### prerequisites
-The code runs in R version 4.4.1. 
 Browser versions at the time of deployment:  
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) RStudio/2024.04.2+764 Chrome/120.0.6099.291 Electron/28.3.1 Safari/537.36, Quarto 1.4.555
-
-
-### Running Locally
+ 
+## Running Locally
 The code can be downloaded to run the application locally in R 4.4.1.
- 
- 
-### Production
+  
+## Production
 Deployed onto www.shinyapps.io/. 
 
 ## Usage
@@ -52,7 +47,6 @@ Access to url restricted to Agencies.
 
 ### Main Branch
 Protected and can only be pushed to via pull requests. Should be considered stable and a representation of production code.
-
 
 ## License ???
 MIT License
