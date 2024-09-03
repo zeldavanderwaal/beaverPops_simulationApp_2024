@@ -1,0 +1,2 @@
+appCountry  <-  "demo"
+appPassword <- "none"
