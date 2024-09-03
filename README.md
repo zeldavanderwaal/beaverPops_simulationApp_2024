@@ -1,24 +1,31 @@
-# A Beaver Translocation Simulation App
+# a Beaver Population Simulation App
 A shiny App developed by zelda van der Waal at the University of Newcastle (UK) for NatureScot, Natural Resource Wales, the Environment Agency and Natural England in 2024.
 
 ## About
 As part of a beaver landscape modelling tender Newcastle University produced a desk-based tool to inform future beaver management decision-making with the aim to work with agencies in designing and producing a desk-based tool which applies the beaver population model and informs beaver management decision-making. The app was initially developed using the Beauly catchment (Scotland) as an example. It was extended to cover Scotland, England and Wales in 2024. 
 
-In-app documentation includes: 
-- instructions (general how to, initial simulation set-up)
-- description of the app functionalities (buttons, map legends)
-- summary of the assumptions and parameters within the models
-- help with output interpretation
-- suggestions for further documentation
-- literature and packages references     
+A demo version is available here:
+[a Beaver Population Simulation App - demo! ](https://naturalandenvironmentalscience.shinyapps.io/beaverApp_demo_v1/)
 
-Note that this repository contains public access data; it excludes  habitat maps, river catchment geometries, NBN Atlas sightings data.
+## App functionalities 
+   - beavers: locate existing beaver territories on the map, simulate translocations
+   - landscape: modify habitat quality, incorporate barriers and management scenarios
+   - simulate population growth across the landscape
+   - map probability of occupancy, create summaries over local areas and visualise trends through time
+ 
+![how to 1](www2/fig_howto1.png) ![how to 2](www2/fig_howto2.png) ![how to 3](www2/fig_howto3.png)  ![how to 6](www2/fig_howto6.png)
+![how to 4](www2/fig_howto4.png) ![how to 5](www2/fig_howto5.png) ![stest](www2/fig_settlmtTest.png)  ![how to 7](www2/fig_howto7.png)
 
-[link to docu?](https://github.com/zeldavanderwaal/Scotland-Beaver-App/files/10458558/Beaver.app.guidance.-.12.jan.2023.pdf)
+In-app documentation includes
+   - instructions (user guide, tutorial videos)
+   - description of the app functionalities (buttons, map legends)
+   - summary of the assumptions and parameters within the models
+   - help with output interpretation
+   - suggestions for further documentation
+   - literature and packages references     
 
-
-### Project Team
-Dr Zelda van der Waal, Newcastle University  ([email](mailto:zeldavdwaal@gmail.com))  
+## The Project Team
+Dr Zelda van der Waal, Newcastle University  ([email](mailto:zeldavdwaal@gmail.com)) ([email](mailto:zelda.vanderwaal@ncl.ac.uk)) 
 Prof Aileen Mill, Newcastle University  ([email](mailto:aileen.mill@newcastle.ac.uk))  
 
 
@@ -27,31 +34,19 @@ R version 4.4.1 (2024-06-14 ucrt)
 RStudio 2024.04.2+764 "Chocolate Cosmos" 
 Release (e4392fc9ddc21961fd1d0efd47484b43f07a4177, 2024-06-05) for windows
 [Shiny for R](https://shiny.rstudio.com/)  
-
-
-
-## Getting Started
-
-### Prerequisites
-The code runs in R version 4.4.1. 
 Browser versions at the time of deployment:  
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) RStudio/2024.04.2+764 Chrome/120.0.6099.291 Electron/28.3.1 Safari/537.36, Quarto 1.4.555
-
-
-### Running Locally
-The code can be downloaded to run the application locally as an R-package (developed in R 4.4.1).
  
- 
-### Production
-Currently deployed onto www.shinyapps.io/ server. 
-
-## Usage
-Access to url restricted to Agencies. 
+## Running Locally
+The code can be downloaded to run the application locally in R 4.4.1.
+  
+## Production
+Deployed onto www.shinyapps.io/ for agencies, [demo version] (https://naturalandenvironmentalscience.shinyapps.io/beaverApp_demo_v1/). 
 
 ### Main Branch
-Protected and can only be pushed to via pull requests, considered stable and a representation of production code.
+Protected and can only be pushed to via pull requests. Should be considered stable and a representation of production code.
 
-## License
+## License tbc???
 MIT License
 
 Copyright (c) 2024 zeldavanderwaal
@@ -77,16 +72,9 @@ SOFTWARE.
 
 ## Citation 
 Please cite the associated papers for this work if you use this code:
+A Beaver Population Simulation App: A shiny App developed by zelda van der Waal at the University of Newcastle (UK, 2024).
+Publication: writing ongoing.
 
-```
-@article{xxx2024paper,
-  title={Title},
-  author={Author},
-  journal={arXiv},
-  year={2024}
-}
-```
-
-
+ 
 ## Acknowledgements
-This work was funded by NatureScot, Natural Resource Wales, the Environment Agency and Natural England, developed at Newcastle University UK.
+This work was funded by NatureScot, Natural Resource Wales, the Environment Agency and Natural England.
