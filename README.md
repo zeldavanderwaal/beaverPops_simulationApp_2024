@@ -8,9 +8,9 @@ A demo version is available here:
 [a Beaver Population Simulation App - demo! ](https://naturalandenvironmentalscience.shinyapps.io/beaverApp_demo_v1/)
 
 ## App functionalities 
-   - beavers: locate existing beaver territories on the map, simulate translocations
+   - combine local beaver populations: locate existing beaver territories on the map, simulate translocations
    - landscape: modify habitat quality, incorporate barriers and management scenarios
-   - simulate population growth across the landscape
+   - simulate the growth of all local populations across the landscape
    - map probability of occupancy, create summaries over local areas and visualise trends through time
  
 ![how to 1](www2/fig_howto1.png) ![how to 2](www2/fig_howto2.png) ![how to 3](www2/fig_howto3.png)  ![how to 6](www2/fig_howto6.png)
@@ -37,15 +37,10 @@ Release (e4392fc9ddc21961fd1d0efd47484b43f07a4177, 2024-06-05) for windows
 Browser versions at the time of deployment:  
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) RStudio/2024.04.2+764 Chrome/120.0.6099.291 Electron/28.3.1 Safari/537.36, Quarto 1.4.555
  
-## Running Locally
-The code can be downloaded to run the application locally in R 4.4.1.
-  
+   
 ## Production
-Deployed onto www.shinyapps.io/ for agencies, [demo version] (https://naturalandenvironmentalscience.shinyapps.io/beaverApp_demo_v1/). 
-
-### Main Branch
-Protected and can only be pushed to via pull requests. Should be considered stable and a representation of production code.
-
+Deployed onto www.shinyapps.io/ for agencies  [here is a demo version](https://naturalandenvironmentalscience.shinyapps.io/beaverApp_demo_v1/)
+  
 ## License tbc???
 MIT License
 
