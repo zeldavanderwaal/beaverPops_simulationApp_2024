@@ -5,7 +5,7 @@ A shiny App developed by zelda van der Waal at the University of Newcastle (UK) 
 As part of a beaver landscape modelling tender Newcastle University produced a desk-based tool to inform future beaver management decision-making with the aim to work with agencies in designing and producing a desk-based tool which applies the beaver population model and informs beaver management decision-making. The app was initially developed using the Beauly catchment (Scotland) as an example. It was extended to cover Scotland, England and Wales in 2024. 
 
 A demo version is available here:
-[a beaver app -demo](https://naturalandenvironmentalscience.shinyapps.io/beaverApp_demo_v1/)
+[a Beaver Population Simulation App - demo! ](https://naturalandenvironmentalscience.shinyapps.io/beaverApp_demo_v1/)
 
 ## App functionalities
 ### Examples
