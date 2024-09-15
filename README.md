@@ -1,11 +1,18 @@
 # a Beaver Population Simulation App
-A shiny App developed by zelda van der Waal at the University of Newcastle (UK) for NatureScot, Natural Resource Wales, the Environment Agency and Natural England in 2024.
+This Shiny App is designed to simulate the growth of beaver populations in Scotland, England and Wales.
+The app integrates academic research outputs into an interactive interface that allows the user to simulate beaver population growth. 
+Users specify a range of parameters to create scenarios representative of a conservation management action, landscape and objectives. 
+The generated simulation runs provide an array of potential outcomes aiming to provide useful insights to support decision-making.  
+            
 
 ## About
+A shiny App developed by zelda van der Waal at the University of Newcastle (UK) for NatureScot, Natural Resource Wales, the Environment Agency and Natural England in 2024. 
 As part of a beaver landscape modelling tender Newcastle University produced a desk-based tool to inform future beaver management decision-making with the aim to work with agencies in designing and producing a desk-based tool which applies the beaver population model and informs beaver management decision-making. The app was initially developed using the Beauly catchment (Scotland) as an example. It was extended to cover Scotland, England and Wales in 2024. 
 
 A demo version is available here:
 [a Beaver Population Simulation App - demo! ](https://naturalandenvironmentalscience.shinyapps.io/beaverApp_demo_v1/)
+(note this version is restricted to a small geographic area without placenames in order to satisfy data sharing agreements) 
+
 
 ## App functionalities 
    - combine local beaver populations: locate existing beaver territories on the map, simulate translocations
